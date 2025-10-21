@@ -3,13 +3,36 @@
 
 Email Me 👉 ✉️ **varughesechitranshu@gmail.com**
 
-- 🌱 **I’m currently learning:** html,css,js,DSA in c,PL/SQL.
+- 🌱 **I’m currently learning:** Html , Css, JavaScript , DSA in C, PL/SQL.
 - 📫 **How to reach me:** varughesechitranshu@gmail.
 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+##  Tech Stack:
+
+<!-- Programming Languages with Minecraft Block Colors -->
+![C](https://img.shields.io/badge/C-7C5114?style=for-the-badge&logo=c&logoColor=white)         <!-- Dirt Block -->
+![C#](https://img.shields.io/badge/C%23-2CBAA8?style=for-the-badge&logo=c-sharp&logoColor=white) <!-- Diamond Block -->
+![C++](https://img.shields.io/badge/C++-6C6C6C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <!-- Stone Block -->
+![HTML5](https://img.shields.io/badge/html5-FFAA00?style=for-the-badge&logo=html5&logoColor=white) <!-- Gold Block -->
+![JavaScript](https://img.shields.io/badge/javascript-55FF55?style=for-the-badge&logo=javascript&logoColor=black) <!-- Grass Block -->
+![Java](https://img.shields.io/badge/java-AE8607?style=for-the-badge&logo=java&logoColor=white)   <!-- Log/Tree Block -->
+![Python](https://img.shields.io/badge/python-21497B?style=for-the-badge&logo=python&logoColor=white) <!-- Lapis Block -->
+![Oracle](https://img.shields.io/badge/Oracle-AA0000?style=for-the-badge&logo=oracle&logoColor=white) <!-- Redstone -->
+![Django](https://img.shields.io/badge/django-00AA00?style=for-the-badge&logo=django&logoColor=white) <!-- Dark Green -->
+![MySQL](https://img.shields.io/badge/mysql-00AAAA?style=for-the-badge&logo=mysql&logoColor=white) <!-- Cyan/Aqua -->
+![MongoDB](https://img.shields.io/badge/MongoDB-47A036?style=for-the-badge&logo=mongodb&logoColor=white) <!-- Emerald -->
+
+<!-- Design/Tools -->
+![Blender](https://img.shields.io/badge/blender-DEB12D?style=for-the-badge&logo=blender&logoColor=white) <!-- Gold/Yellow Block -->
+![Canva](https://img.shields.io/badge/Canva-9A5CC6?style=for-the-badge&logo=canva&logoColor=white) <!-- Amethyst -->
+
+<!-- Portfolio & Game Development -->
+![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=portfolio&logoColor=white)  <!-- Cobblestone -->
+![Itch.io](https://img.shields.io/badge/itch.io-FF5555?style=for-the-badge&logo=itchdotio&logoColor=white) <!-- Redstone -->
+![GODOT](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) <!-- Water Block -->
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)      <!-- Black/Obsidian -->
+
 
 <!-- Snake Game Repo View -->
 
@@ -18,7 +41,7 @@ Email Me 👉 ✉️ **varughesechitranshu@gmail.com**
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chitranshu-varughese1590&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Chitranshu-varughese1590&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshu-varughese1590&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
