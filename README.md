@@ -1,38 +1,40 @@
-# 💫 Hi 👋, I'm Chitranshu varughese
-**A passionate Computer Science student from India currently pursuing my B.Tech in Computer Science Engineering.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1200&color=4CAF50&center=true&repeat=true&width=850&height=100&lines=Hello%2C+Welcome+to+my+GitHub%21;My+name+is+Chitranshu+Varughese;Computer+Science+Student;Developer+%7C+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
-Email Me 👉 ✉️ **varughesechitranshu@gmail.com**
+**I am Chitranshu V Varughese.**<br>
+**Passionate Computer Science Student | B.Tech CSE | India**
 
-- 🌱 **I’m currently learning:** Html , Css, JavaScript , DSA in C, PL/SQL.
-- 📫 **How to reach me:** varughesechitranshu@gmail.
+Aspiring developer dedicated to innovative technology solutions. Currently pursuing my B.Tech in Computer Science Engineering, with a keen interest in web development, algorithms, and modern frameworks.
+
+---
+
+- 🌱 **Currently learning:** HTML, CSS, JavaScript, DSA in C, PL/SQL
+- 📫 **Contact:** varughesechitranshu@gmail.com
+- 💼 **LinkedIn:** [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> Chitranshu Varughese](https://www.linkedin.com/in/chitranshu-v-varughese-a21616330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpRs0ozheR8y5XL5E41QXQA%3D%3D)
+
+---
+
+> 🔎 Driven by curiosity and committed to continuous learning.  
+> 🛠️ Strong foundations in Computer Science fundamentals and practical project development.
 
 
 
-##  Tech Stack:
 
-<!-- Programming Languages with Minecraft Block Colors -->
-![C](https://img.shields.io/badge/C-7C5114?style=for-the-badge&logo=c&logoColor=white)         <!-- Dirt Block -->
-![C#](https://img.shields.io/badge/C%23-2CBAA8?style=for-the-badge&logo=c-sharp&logoColor=white) <!-- Diamond Block -->
-![C++](https://img.shields.io/badge/C++-6C6C6C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <!-- Stone Block -->
-![HTML5](https://img.shields.io/badge/html5-FFAA00?style=for-the-badge&logo=html5&logoColor=white) <!-- Gold Block -->
-![JavaScript](https://img.shields.io/badge/javascript-55FF55?style=for-the-badge&logo=javascript&logoColor=black) <!-- Grass Block -->
-![Java](https://img.shields.io/badge/java-AE8607?style=for-the-badge&logo=java&logoColor=white)   <!-- Log/Tree Block -->
-![Python](https://img.shields.io/badge/python-21497B?style=for-the-badge&logo=python&logoColor=white) <!-- Lapis Block -->
-![Oracle](https://img.shields.io/badge/Oracle-AA0000?style=for-the-badge&logo=oracle&logoColor=white) <!-- Redstone -->
-![Django](https://img.shields.io/badge/django-00AA00?style=for-the-badge&logo=django&logoColor=white) <!-- Dark Green -->
-![MySQL](https://img.shields.io/badge/mysql-00AAAA?style=for-the-badge&logo=mysql&logoColor=white) <!-- Cyan/Aqua -->
-![MongoDB](https://img.shields.io/badge/MongoDB-47A036?style=for-the-badge&logo=mongodb&logoColor=white) <!-- Emerald -->
 
-<!-- Design/Tools -->
-![Blender](https://img.shields.io/badge/blender-DEB12D?style=for-the-badge&logo=blender&logoColor=white) <!-- Gold/Yellow Block -->
-![Canva](https://img.shields.io/badge/Canva-9A5CC6?style=for-the-badge&logo=canva&logoColor=white) <!-- Amethyst -->
+## Tech Stack:
 
-<!-- Portfolio & Game Development -->
-![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=portfolio&logoColor=white)  <!-- Cobblestone -->
-![Itch.io](https://img.shields.io/badge/itch.io-FF5555?style=for-the-badge&logo=itchdotio&logoColor=white) <!-- Redstone -->
-![GODOT](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) <!-- Water Block -->
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)      <!-- Black/Obsidian -->
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| C   | C#  | HTML5 | JavaScript | Java | Python | Oracle | Django | MySQL | MongoDB |
 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/> |
+|:---:|:---:|:---:|:---:|
+| Blender | Canva | Godot | Unity |
+
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Itch.io_logo.svg" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40"/> |
+|:---:|:---:|
+| Itch.io | Portfolio |
 
 <!-- Snake Game Repo View -->
 
