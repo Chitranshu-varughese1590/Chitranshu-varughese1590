@@ -15,8 +15,7 @@ VALORANT  //  FULL STACK DEVELOPER  //  AGENT DOSSIER
 **`B.TECH CSE`** &nbsp;·&nbsp; **`POORNIMA UNIVERSITY`** &nbsp;·&nbsp; **`JAIPUR, INDIA`** &nbsp;·&nbsp; **`2024–2028`**
 
 Full-stack developer proficient in React.js, Java, Python and modern web technologies.
-Built production-grade projects · Led AWS workshops for 70–80 students
-· Managed international programs across 3 countries.
+Built production-grade projects ·.
 
 ![STATUS](https://img.shields.io/badge/STATUS-ONLINE-42C983?style=flat-square&labelColor=0D0D18)
 ![ROLE](https://img.shields.io/badge/ROLE-FULL__STACK__DEV-FF4655?style=flat-square&labelColor=130508)
