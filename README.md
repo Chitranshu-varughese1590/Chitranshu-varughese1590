@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=46&pause=1200&color=FF4655&center=true&repeat=true&width=900&height=80&lines=CHITRANSHU+%E2%96%BC+VARUGHESE;FULL+STACK+DEVELOPER;FROM+THE+SHADOWS%2C+I+BUILD" alt="Typing SVG Header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=800&size=46&pause=1200&color=FF4655&center=true&vCenter=true&repeat=true&width=900&height=80&lines=CHITRANSHU+%E2%96%BC+VARUGHESE;FULL+STACK+DEVELOPER;FROM+THE+SHADOWS%2C+I+BUILD" alt="Typing SVG Header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D18,100:1A0508&height=4&width=900" alt="divider"/>
 
 </div>
 
@@ -15,7 +17,7 @@ VALORANT  //  FULL STACK DEVELOPER  //  AGENT DOSSIER
 **`B.TECH CSE`** &nbsp;·&nbsp; **`POORNIMA UNIVERSITY`** &nbsp;·&nbsp; **`JAIPUR, INDIA`** &nbsp;·&nbsp; **`2024–2028`**
 
 Full-stack developer proficient in React.js, Java, Python and modern web technologies.
-Built production-grade projects ·.
+Built production-grade projects.
 
 ![STATUS](https://img.shields.io/badge/STATUS-ONLINE-42C983?style=flat-square&labelColor=0D0D18)
 ![ROLE](https://img.shields.io/badge/ROLE-FULL__STACK__DEV-FF4655?style=flat-square&labelColor=130508)
@@ -32,26 +34,10 @@ Built production-grade projects ·.
 
 <div align="center">
 
-## `// LOADOUT — LANGUAGES //`
+## `// LOADOUT //`
 
-| Q | E | C | X | 01 |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38"/> |
-| **Python** | **Java** | **JavaScript** | **React.js** | **C** |
-
-## `// LOADOUT — WEB & BACKEND //`
-
-| 02 | 03 | 04 | 05 | 06 |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="38"/> |
-| **HTML5** | **CSS3** | **Node.js** | **Django** | **Firebase** |
-
-## `// LOADOUT — DATABASES & TOOLS //`
-
-| 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="38"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38"/> |
-| **MySQL** | **MongoDB** | **PL/SQL** | **Git** | **VS Code** | **Unity** | **Godot** | **Blender** | **Linux** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/><br>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/><br>Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/><br>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/><br>React.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/><br>C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/><br>HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/><br>CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/><br>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32"/><br>Django | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32"/><br>Firebase | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/><br>MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/><br>MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="32"/><br>PL/SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/><br>Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/><br>VS Code | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32"/><br>Unity | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32"/><br>Godot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="32"/><br>Blender | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32"/><br>Linux |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -67,31 +53,6 @@ Built production-grade projects ·.
 <br/>
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Chitranshu-varughese1590&theme=dark&hide_border=true&background=0D0D18&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=ECE8E1&currStreakNum=ECE8E1&sideNums=ECE8E1&dates=6E6A8A)
-
-</div>
-
----
-
-## `// TROPHIES — GITHUB PROFILE TROPHY //`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chitranshu-varughese1590&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `// CODING ACTIVITY — WAKATIME //`
-
-<!--START_SECTION:waka-->
-> ⚡ **WakaTime is active.** Stats update automatically every 24 hours once the WakaTime VS Code extension is connected.
-> Setup in 2 minutes → [wakatime.com](https://wakatime.com)
-<!--END_SECTION:waka-->
-
-<div align="center">
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=chitranshu_varughese&theme=dark&hide_border=true&bg_color=0D0D18&title_color=FF4655&text_color=ECE8E1&layout=compact)
 
 </div>
 
