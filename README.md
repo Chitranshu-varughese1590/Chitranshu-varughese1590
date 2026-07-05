@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/omen-banner.gif" width="100%" alt="banner"/>
+<img src="./assets/CV.png" width="100%" alt="banner"/>
 
 <br/>
 
