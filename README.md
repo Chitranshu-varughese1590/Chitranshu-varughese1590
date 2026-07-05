@@ -129,38 +129,60 @@ Full-stack developer building production-grade web applications with React.js, J
 
 ---
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Chitranshu-varughese1590&theme=dark&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=8B949E&dates=484F58)
+<img src="https://streak-stats.demolab.com?user=Chitranshu-varughese1590&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=8B949E&dates=484F58" alt="GitHub Streak Stats"/>
 
-</div>
-
----
-
-## LeetCode
-
-<div align="center">
+<br/><br/>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/chitranshu_varughese?theme=dark&font=Space%20Grotesk&ext=heatmap&border=0&bg_color=0d1117&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9)](https://leetcode.com/chitranshu_varughese)
 
 </div>
+
+
 ---
 
 ## Experience
 
-**Full Stack Developer Intern** &nbsp;·&nbsp; Future Interns &nbsp;·&nbsp; *May – Jun 2025*
+<table>
+<tr>
+<td width="76%" valign="top">
+
+**Full Stack Developer Intern** · Future Interns · *May – Jun 2025*
 - Built production-ready full-stack applications using React.js, REST APIs, and responsive design principles
 - Delivered under real deadlines · Completed with a Letter of Recommendation · Full Stack Certified
 
-**AWS Student Tech Lead** &nbsp;·&nbsp; Poornima University &nbsp;·&nbsp; *Feb 2026 – Present*
+**AWS Student Tech Lead** · Poornima University · *Feb 2026 – Present*
 - Designed and delivered an AWS fundamentals workshop reaching 70–80 students in a single session
 - Architected a hands-on cloud curriculum covering core AWS services and deployment workflows
 
-**AIESEC Junior Manager** &nbsp;·&nbsp; International &nbsp;·&nbsp; *Dec 2025 – May 2026*
+**AIESEC Junior Manager** · International · *Dec 2025 – May 2026*
 - Managed international youth exchange programs spanning 3 countries simultaneously
 - Led and coordinated a team of 6 across cross-cultural program logistics
+
+</td>
+<td width="2%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,100:30363d&height=260&width=3" alt="divider"/>
+
+</td>
+<td width="22%" align="center" valign="middle">
+
+<a href="mailto:varughesechitranshu@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34"/></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/chitranshu-v-varughese-a21616330"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34"/></a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/chitranshu_varughese"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="34"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -172,30 +194,7 @@ Full-stack developer building production-grade web applications with React.js, J
 &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-Aggregation_Framework_Certified-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117)
 
----
 
-## Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/GMAIL-2F81F7?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:varughesechitranshu@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2F81F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/chitranshu-v-varughese-a21616330)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-C9D1D9?style=flat-square&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/Chitranshu-varughese1590)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=0D1117)](https://leetcode.com/chitranshu_varughese)
-<div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/chitranshu-v-varughese" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:varughesechitranshu1@gamil.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-</div>
 ---
 
 ## Contribution Activity
