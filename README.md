@@ -146,17 +146,6 @@ Full-stack developer building production-grade web applications with React.js, J
 [![LeetCode Stats](https://leetcard.jacoblin.cool/chitranshu_varughese?theme=dark&font=Space%20Grotesk&ext=heatmap&border=0&bg_color=0d1117&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9)](https://leetcode.com/chitranshu_varughese)
 
 </div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-varughese1590&bg_color=0d1117&color=58A6FF&line=2F81F7&point=C9D1D9&area=true&hide_border=true&area_color=2F81F720&custom_title=Contribution%20Graph)](https://github.com/Chitranshu-varughese1590)
-
-</div>
-
 ---
 
 ## Experience
@@ -185,14 +174,6 @@ Full-stack developer building production-grade web applications with React.js, J
 
 ---
 
-## Dev Setup
-
-| OS | Editor | Version Control | Deployment |
-|:---:|:---:|:---:|:---:|
-| Windows 11 | VS Code | Git + GitHub | Vercel · Firebase |
-
----
-
 ## Connect
 
 <div align="center">
@@ -204,13 +185,23 @@ Full-stack developer building production-grade web applications with React.js, J
 [![GitHub](https://img.shields.io/badge/GITHUB-C9D1D9?style=flat-square&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/Chitranshu-varughese1590)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=0D1117)](https://leetcode.com/chitranshu_varughese)
-
+<div data-importer="socials" align="left">
+  <a href="www.linkedin.com/in/chitranshu-v-varughese" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:varughesechitranshu1@gamil.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
+###
+</div>
 ---
+
+## Contribution Activity
 
 <div align="center">
 
-<sub>Building at the intersection of software and robotics — one commit at a time.</sub>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-varughese1590&bg_color=0d1117&color=58A6FF&line=2F81F7&point=C9D1D9&area=true&hide_border=true&area_color=2F81F720&custom_title=Contribution%20Graph)](https://github.com/Chitranshu-varughese1590)
 
 </div>
