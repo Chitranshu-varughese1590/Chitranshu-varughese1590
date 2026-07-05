@@ -127,19 +127,6 @@ Full-stack developer building production-grade web applications with React.js, J
 </tr>
 </table>
 
----
-
-## Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Chitranshu-varughese1590&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=8B949E&dates=484F58" alt="GitHub Streak Stats"/>
-
-<br/><br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/chitranshu_varughese?theme=dark&font=Space%20Grotesk&ext=heatmap&border=0&bg_color=0d1117&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9)](https://leetcode.com/chitranshu_varughese)
-
-</div>
 
 
 ---
@@ -148,7 +135,7 @@ Full-stack developer building production-grade web applications with React.js, J
 
 <table>
 <tr>
-<td width="76%" valign="top">
+<td width="76%" rowspan="4" valign="top">
 
 **Full Stack Developer Intern** · Future Interns · *May – Jun 2025*
 - Built production-ready full-stack applications using React.js, REST APIs, and responsive design principles
@@ -163,22 +150,41 @@ Full-stack developer building production-grade web applications with React.js, J
 - Led and coordinated a team of 6 across cross-cultural program logistics
 
 </td>
-<td width="2%" align="center">
+<td width="2%" rowspan="4" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,100:30363d&height=260&width=3" alt="divider"/>
 
 </td>
-<td width="22%" align="center" valign="middle">
+<td width="22%" align="center">
 
-<a href="mailto:varughesechitranshu@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34"/></a>
+<strong>Connect</strong>
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<a href="https://www.linkedin.com/in/chitranshu-v-varughese-a21616330"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34"/></a>
+<a href="mailto:varughesechitranshu@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"/></a>
+<br/>
+Gmail
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<a href="https://leetcode.com/chitranshu_varughese"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="34"/></a>
+<a href="https://www.linkedin.com/in/chitranshu-v-varughese-a21616330"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30"/></a>
+<br/>
+LinkedIn
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<a href="https://leetcode.com/chitranshu_varughese"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30"/></a>
+<br/>
+LeetCode
 
 </td>
 </tr>
@@ -194,13 +200,34 @@ Full-stack developer building production-grade web applications with React.js, J
 &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-Aggregation_Framework_Certified-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117)
 
+---
 
+## Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://streak-stats.demolab.com?user=Chitranshu-varughese1590&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=8B949E&dates=484F58" alt="GitHub Streak Stats"/>
+
+</td>
+<td align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chitranshu_varughese?theme=dark&font=Space%20Grotesk&ext=heatmap&border=0&bg_color=0d1117&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9)](https://leetcode.com/chitranshu_varughese)
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## Contribution Activity
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-varughese1590&bg_color=0d1117&color=58A6FF&line=2F81F7&point=C9D1D9&area=true&hide_border=true&area_color=2F81F720&custom_title=Contribution%20Graph)](https://github.com/Chitranshu-varughese1590)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-varughese1590&bg_color=0d1117&color=3FB950&line=3FB950&point=C9D1D9&area=true&hide_border=true&area_color=2F81F720&custom_title=Contribution%20Graph)](https://github.com/Chitranshu-varughese1590)
 
 </div>
