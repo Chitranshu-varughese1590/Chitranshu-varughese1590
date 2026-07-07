@@ -18,22 +18,13 @@
 
 Full-stack developer building production-grade web applications with React.js, Java, and Python — with a parallel focus on robotics, systems programming, and interactive 3D/game development.
 
-<br/>
-
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2F81F7?style=flat-square&labelColor=0D1117)
-![Role](https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEV-2F81F7?style=flat-square&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-STUDENT%20TECH%20LEAD-2F81F7?style=flat-square&labelColor=0D1117)
-![CGPA](https://img.shields.io/badge/CGPA-7.96%2F10-2F81F7?style=flat-square&labelColor=0D1117)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Chitranshu-varughese1590&color=2F81F7&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Chitranshu-varughese1590?label=FOLLOWERS&style=flat-square&color=C9D1D9&labelColor=0D1117&logo=github)
-![Stars](https://img.shields.io/github/stars/Chitranshu-varughese1590?label=TOTAL+STARS&style=flat-square&color=C9D1D9&labelColor=0D1117&logo=github)
-
 </div>
 
 ---
 
 ## About Me
+
+I'm a Computer Science student who likes shipping things end to end — from wiring up a React frontend to a working backend, to getting a robotics stack talking to hardware. I've led cloud workshops for 70+ students at a time, interned as a full-stack developer under real deadlines, and spent my downtime building games and 3D scenes just to keep the "build for fun" muscle alive. Right now I'm splitting my time between DSA prep, systems programming, and an AI ideathon project that matches idle resources to people who need them.
 
 - 🎓 B.Tech Computer Science Engineering student with a robotics specialization
 - 💼 Full-Stack Developer Intern who shipped production-ready features under real deadlines
@@ -54,11 +45,18 @@ Full-stack developer building production-grade web applications with React.js, J
 <tr>
 <td width="30%"><strong>Languages</strong></td>
 <td>
+<marquee behavior="scroll" direction="left" scrollamount="4">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28"/>
+</marquee>
 </td>
 </tr>
 <tr>
@@ -194,11 +192,11 @@ LeetCode
 
 ## Certifications
 
-![Oracle GenAI](https://img.shields.io/badge/Oracle_Cloud-Generative_AI_Professional-2F81F7?style=flat-square&logo=oracle&logoColor=white&labelColor=0D1117)
-&nbsp;
-![Oracle AI](https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_Associate-2F81F7?style=flat-square&logo=oracle&logoColor=white&labelColor=0D1117)
-&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-Aggregation_Framework_Certified-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117)
+| Certification | Issuer |
+|---|---|
+| [Generative AI Professional](#) | Oracle Cloud |
+| [AI Foundations Associate](#) | Oracle Cloud |
+| [Aggregation Framework Certified](#) | MongoDB |
 
 ---
 
