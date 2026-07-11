@@ -190,11 +190,29 @@ LeetCode
 
 ## Certifications
 
+<table>
+<tr>
+<td width="48%" valign="top">
+
 | Certification | Issuer |
 |---|---|
 | [Generative AI Professional](#) | Oracle Cloud |
 | [AI Foundations Associate](#) | Oracle Cloud |
 | [Aggregation Framework Certified](#) | MongoDB |
+
+</td>
+<td width="4%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,100:30363d&height=180&width=3" alt="divider"/>
+
+</td>
+<td width="48%" align="center" valign="top">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chitranshu-varughese1590&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=350" alt="Top Languages" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -216,10 +234,6 @@ LeetCode
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chitranshu-varughese1590&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=450" alt="Top Languages" width="450"/>
 
 </div>
 
