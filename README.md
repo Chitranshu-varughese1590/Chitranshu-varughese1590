@@ -125,8 +125,6 @@ I'm a Computer Science student who likes shipping things end to end — from wir
 </tr>
 </table>
 
-
-
 ---
 
 ## Experience
@@ -219,7 +217,12 @@ LeetCode
 </tr>
 </table>
 
+<br/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chitranshu-varughese1590&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=450" alt="Top Languages" width="450"/>
+
 </div>
+
 ---
 
 ## Contribution Activity
