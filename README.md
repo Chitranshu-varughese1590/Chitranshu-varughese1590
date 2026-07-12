@@ -16,7 +16,7 @@
 
 **`B.TECH CSE`** &nbsp;·&nbsp; **`POORNIMA UNIVERSITY, JAIPUR`** &nbsp;·&nbsp; **`2024 – 2028`** 
 
-Full-stack developer building production-grade web applications with React.js, Java, and Python — with a parallel focus on robotics, systems programming, and interactive 3D/game development.
+Full-stack developer building production-grade web applications with React.js, Java, and Python , systems programming, and interactive 3D/game development.
 
 </div>
 
@@ -26,7 +26,7 @@ Full-stack developer building production-grade web applications with React.js, J
 
 I'm a Computer Science student who likes shipping things end to end — from wiring up a React frontend to a working backend, to getting a robotics stack talking to hardware. I've led cloud workshops for 70+ students at a time, interned as a full-stack developer under real deadlines, and spent my downtime building games and 3D scenes just to keep the "build for fun" muscle alive. Right now I'm splitting my time between DSA prep, systems programming, and an AI ideathon project that matches idle resources to people who need them.
 
-- 🎓 B.Tech Computer Science Engineering student with a robotics specialization
+- 🎓 B.Tech Computer Science Engineering student
 - 💼 Full-Stack Developer Intern who shipped production-ready features under real deadlines
 - ☁️ AWS Student Tech Lead — designed and delivered cloud workshops for 70–80 students at a time
 - 🌍 AIESEC Junior Manager — coordinated international exchange programs across 3 countries with a 6-person team
