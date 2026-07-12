@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**`B.TECH CSE`** &nbsp;·&nbsp; **`POORNIMA UNIVERSITY, JAIPUR`** &nbsp;·&nbsp; **`2024 – 2028`** &nbsp;·&nbsp; **`ROBOTICS SPECIALIZATION`**
+**`B.TECH CSE`** &nbsp;·&nbsp; **`POORNIMA UNIVERSITY, JAIPUR`** &nbsp;·&nbsp; **`2024 – 2028`** 
 
 Full-stack developer building production-grade web applications with React.js, Java, and Python — with a parallel focus on robotics, systems programming, and interactive 3D/game development.
 
