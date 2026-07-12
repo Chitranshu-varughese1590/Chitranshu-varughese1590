@@ -119,7 +119,8 @@ I'm a Computer Science student who likes shipping things end to end — from wir
 
 <br/>
 
-*"Build the thing that doesn't exist yet — then make it run at 60 FPS."*
+*"Code, like shadow, moves where others cannot see. Master it, and you control what others fear to understand."
+— Omen*
 
 </td>
 </tr>
