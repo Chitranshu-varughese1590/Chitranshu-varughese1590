@@ -201,6 +201,13 @@ LeetCode
 | [AI Foundations Associate](#) | Oracle Cloud |
 | [Aggregation Framework Certified](#) | MongoDB |
 
+<br/>
+
+![Ideathon](https://img.shields.io/badge/Redrob_Ideathon-AI_Ripple-58A6FF?style=for-the-badge&logo=lightning&logoColor=white)
+<br/>
+![DSA](https://img.shields.io/badge/LeetCode-Active_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+<br/>
+
 </td>
 <td width="4%" align="center">
 
@@ -214,6 +221,16 @@ LeetCode
 </td>
 </tr>
 </table>
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chitranshu-varughese1590&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
