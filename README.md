@@ -207,6 +207,7 @@ LeetCode
 <br/>
 ![DSA](https://img.shields.io/badge/LeetCode-Active_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 <br/>
+![AWS](https://img.shields.io/badge/AWS_Workshop-80+_Students-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </td>
 <td width="4%" align="center">
@@ -228,7 +229,21 @@ LeetCode
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Chitranshu-varughese1590&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Chitranshu-varughese1590&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+<a href="https://github.com/Chitranshu-varughese1590">
+<img src="PASTE_YOUR_QUICKDRAW_BADGE_URL_HERE" width="90" alt="Quickdraw"/>
+</a>
+
+*Quickdraw — closed an issue or PR within 5 minutes of opening it*
 
 </div>
 
