@@ -240,7 +240,7 @@ LeetCode
 <div align="center">
 
 <a href="https://github.com/Chitranshu-varughese1590">
-<img src="PASTE_YOUR_QUICKDRAW_BADGE_URL_HERE" width="90" alt="Quickdraw"/>
+<img src="Chitranshu-varughese1590/Chitranshu-varughese1590#1" width="90" alt="Quickdraw"/>
 </a>
 
 *Quickdraw — closed an issue or PR within 5 minutes of opening it*
