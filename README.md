@@ -119,7 +119,7 @@ I'm a Computer Science student who likes shipping things end to end — from wir
 
 <br/>
 
-*"Code, like shadow, moves where others cannot see. Master it, and you control what others fear to understand."
+*"The darkness is not your enemy. It is where the strongest are forged. Every failure is another shadow behind you, every step forward another piece of the nightmare you survived. Keep moving. They fear what refuses to break."."
 — Omen*
 
 </td>
