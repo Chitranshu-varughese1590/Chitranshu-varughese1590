@@ -32,7 +32,6 @@ I'm a Computer Science student who likes shipping things end to end — from wir
 - 🌍 AIESEC Junior Manager — coordinated international exchange programs across 3 countries with a 6-person team
 - 🎮 Builds games and interactive 3D experiences on the side using Unity, Godot, and Blender
 - 📈 Currently deep in DSA and systems-level prep (C/C++), with early exposure to Python and ROS 2
-
 ---
 
 <table>
@@ -42,6 +41,7 @@ I'm a Computer Science student who likes shipping things end to end — from wir
 ## Tech Stack
 
 <table>
+
 <tr>
 <td width="30%"><strong>Languages</strong></td>
 <td>
