@@ -225,6 +225,25 @@ LeetCode
 
 ---
 
+## HackerRank Badges
+
+<!--
+  Live badge feed — renders directly from your HackerRank profile at request time,
+  so any badge you earn (like Python ★) shows up automatically, no manual edits needed.
+  Powered by an unofficial third-party generator (hackerrank-badges.vercel.app).
+  If this image ever appears blank/broken, the service may be down — swap in a manual
+  shields.io badge as a fallback, e.g.:
+  ![Python](https://img.shields.io/badge/HackerRank-Python★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+-->
+
+<div align="center">
+
+[![HackerRank Badges](https://hackerrank-badges.vercel.app/2024cschitransh1)](https://www.hackerrank.com/profile/2024cschitransh1)
+
+</div>
+
+---
+
 ## Trophies
 
 <div align="center">
