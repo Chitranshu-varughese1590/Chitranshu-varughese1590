@@ -225,7 +225,13 @@ LeetCode
 
 ---
 
-## HackerRank Badges
+<div align="center">
+
+<table>
+<tr>
+<td width="47%" align="center" valign="top">
+
+### HackerRank Badges
 
 <!--
   Live badge feed — renders directly from your HackerRank profile at request time,
@@ -236,32 +242,25 @@ LeetCode
   ![Python](https://img.shields.io/badge/HackerRank-Python★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 -->
 
-<div align="center">
-
 [![HackerRank Badges](https://hackerrank-badges.vercel.app/2024cschitransh1)](https://www.hackerrank.com/profile/2024cschitransh1)
 
-</div>
+</td>
+<td width="6%" align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,100:30363d&height=120&width=3" alt="divider"/>
 
-## Trophies
+</td>
+<td width="47%" align="center" valign="top">
 
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Chitranshu-varughese1590&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
+### Achievements
 
 <a href="https://github.com/Chitranshu-varughese1590">
 <img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" width="90" alt="Quickdraw"/>
 </a>
 
+</td>
+</tr>
+</table>
 
 </div>
 
