@@ -277,7 +277,7 @@ LeetCode
 <tr>
 <td align="center">
 
-<img src="https://streak-stats.demolab.com?user=Chitranshu-varughese1590&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=8B949E&dates=484F58" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chitranshu-varughese1590&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950" alt="GitHub Stats"/>
 
 </td>
 <td align="center">
@@ -287,7 +287,6 @@ LeetCode
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
