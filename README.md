@@ -242,7 +242,9 @@ LeetCode
   ![Python](https://img.shields.io/badge/HackerRank-Python★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 -->
 
-[![HackerRank Badges](https://images.weserv.nl/?url=hackerrank-badges.vercel.app%2F2024cschitransh1&bg=d3d3d3)](https://www.hackerrank.com/profile/2024cschitransh1)
+<a href="https://www.hackerrank.com/profile/2024cschitransh1">
+<img src="https://hackerrank-badges.vercel.app/2024cschitransh1" style="background-color:#ffffff;border-radius:6px;padding:4px;" alt="HackerRank Badges"/>
+</a>
 
 </td>
 <td width="6%" align="center">
@@ -256,9 +258,6 @@ LeetCode
 
 <a href="https://github.com/Chitranshu-varughese1590">
 <img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" width="90" alt="Quickdraw"/>
-</a>
-<a href="https://github.com/Chitranshu-varughese1590?achievement=yolo&tab=achievements">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
 </a>
 
 </td>
@@ -277,7 +276,7 @@ LeetCode
 <tr>
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chitranshu-varughese1590&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Chitranshu-varughese1590&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=8B949E&dates=484F58" alt="GitHub Streak Stats"/>
 
 </td>
 <td align="center">
@@ -287,6 +286,7 @@ LeetCode
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
