@@ -242,9 +242,7 @@ LeetCode
   ![Python](https://img.shields.io/badge/HackerRank-Python★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 -->
 
-<a href="https://www.hackerrank.com/profile/2024cschitransh1">
-<img src="https://hackerrank-badges.vercel.app/2024cschitransh1" style="background-color:#ffffff;border-radius:6px;padding:4px;" alt="HackerRank Badges"/>
-</a>
+[![HackerRank Badges](https://images.weserv.nl/?url=hackerrank-badges.vercel.app%2F2024cschitransh1&bg=d3d3d3)](https://www.hackerrank.com/profile/2024cschitransh1)
 
 </td>
 <td width="6%" align="center">
