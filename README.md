@@ -231,18 +231,19 @@ LeetCode
 <tr>
 <td width="47%" align="center" valign="top">
 
-### HackerRank Badges
+### LeetCode Badge
 
 <!--
-  Live badge feed — renders directly from your HackerRank profile at request time,
-  so any badge you earn (like Python ★) shows up automatically, no manual edits needed.
-  Powered by an unofficial third-party generator (hackerrank-badges.vercel.app).
-  If this image ever appears blank/broken, the service may be down — swap in a manual
-  shields.io badge as a fallback, e.g.:
-  ![Python](https://img.shields.io/badge/HackerRank-Python★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+  Live badge showcase — renders your ACTUAL earned LeetCode badges (e.g. "50 Days
+  Badge 2026") directly from your LeetCode profile at request time, so any badge you
+  earn shows up automatically, no manual edits needed. Powered by an unofficial
+  third-party generator (leetcode-badge-showcase.vercel.app / KevzPeter). First load
+  can be slow (serverless cold start) — refresh if it looks blank. If it ever stays
+  broken, swap in a manual shields.io badge as a fallback, e.g.:
+  ![LeetCode](https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 -->
 
-[![HackerRank Badges](https://images.weserv.nl/?url=hackerrank-badges.vercel.app%2F2024cschitransh1&bg=d3d3d3)](https://www.hackerrank.com/profile/2024cschitransh1)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=chitranshu_varughese&theme=dark&border=no-border" alt="LeetCode Badges"/>
 
 </td>
 <td width="6%" align="center">
@@ -291,8 +292,19 @@ LeetCode
 
 ## Contribution Activity
 
+<!--
+  NOTE ON RELIABILITY: the original host (github-readme-activity-graph.vercel.app)
+  is a widely-reported flaky public instance — it gets overloaded/rate-limited and
+  the graph silently fails to render (see Ashutosh00710/github-readme-activity-graph
+  issue #197). Pointed at a community-run mirror below as an immediate fix. For a
+  permanent fix with no shared rate limit, fork
+  https://github.com/Ashutosh00710/github-readme-activity-graph to your own Vercel
+  account (same pattern already used for the self-hosted github-readme-stats
+  instance) and swap in your own *.vercel.app domain here.
+-->
+
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-varughese1590&bg_color=0d1117&color=3FB950&line=3FB950&point=C9D1D9&area=true&hide_border=true&area_color=2F81F720&custom_title=Contribution%20Graph)](https://github.com/Chitranshu-varughese1590)
+[![Contribution Graph](https://fabianocouto-activity-graph.vercel.app/graph?username=Chitranshu-varughese1590&bg_color=0d1117&color=3FB950&line=3FB950&point=C9D1D9&area=true&hide_border=true&area_color=2F81F720&custom_title=Contribution%20Graph)](https://github.com/Chitranshu-varughese1590)
 
 </div>
